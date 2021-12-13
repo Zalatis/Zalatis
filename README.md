@@ -28,6 +28,7 @@
 <p><a href="https://www.buymeacoffee.com/Zalati"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Zalati" /></a><a href="https://ko-fi.com/zalati"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zalati" /></a></p><br><br>
 
 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalatis&show_icons=true&locale=en&layout=compact" alt="zalatis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zalatis&show_icons=true&locale=en" alt="zalatis" /></p>
