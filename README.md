@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalatis&label=Profile%20views&color=0e75b6&style=flat" alt="zalatis" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zalatis" alt="zalatis" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/zalati_" target="blank"><img src="https://img.shields.io/twitter/follow/zalati_?logo=twitter&style=for-the-badge" alt="zalati_" /></a> </p>
 
 - 🔭 I’m currently working on **[Looking for a job...]**
