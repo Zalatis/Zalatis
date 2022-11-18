@@ -29,6 +29,7 @@
 <div align="left">
 <h3 align="left">Quelques statistiques:</h3>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalatis&show_icons=true&locale=en&layout=compact" alt="zalatis" /></p>
+<p align="left">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zalatis&show_icons=true&locale=en" alt="zalatis" /></p>
 </div>
   
 <div align="left">
