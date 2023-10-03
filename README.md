@@ -22,6 +22,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/zalati"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="zalati" /></a></p><br><br>
 
+&nbsp;
+&nbsp;
 <p>
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=zalatis&show_icons=true&theme=dark&locale=en" alt="zalatis" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zalatis&show_icons=true&theme=dark&locale=en&layout=compact" alt="zalatis" />
